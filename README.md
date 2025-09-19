@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://your-image-address.com/image.png" width="400">
+  <img src="<p align="center">
+  <img src="https://your-image-address.com/image.png">
+</p>" width="400">
 <p>
-<h1 align="center">Hi 👋, I'm Tushar Srivastava</h1>
+<h1 align="center">Hello i m Tushar Srivastava</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 
 <!--
