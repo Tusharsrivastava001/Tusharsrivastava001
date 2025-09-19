@@ -1,4 +1,4 @@
-![intro](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdmMTFoaHJ4YTlzYmo5eW9vM29zM2toeGFjeGlhb3JhODRibGlhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)
+![intro](https://pin.it/4tMAO6BLe)
 
 ## Hi I m Tushar Srivastava 
 
