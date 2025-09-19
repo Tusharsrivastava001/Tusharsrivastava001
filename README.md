@@ -1,4 +1,6 @@
-## Hi there 👋
+![intro](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdmMTFoaHJ4YTlzYmo5eW9vM29zM2toeGFjeGlhb3JhODRibGlhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)
+
+## Hi I m Tushar Srivastava 
 
 <!--
 **Tusharsrivastava001/Tusharsrivastava001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
