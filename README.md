@@ -1,4 +1,4 @@
-![intro](https://pin.it/5usxVR7va)
+![intro](https://i.pinimg.com/736x/a2/d7/c0/a2d7c02d11fb7517f5875fcf22141805.jpg)
 
 ## Hi I m Tushar Srivastava 
 
