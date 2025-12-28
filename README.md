@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello i m Tushar Srivastava</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
-
+Ask me about the cpp java
 <!--
 **Tusharsrivastava001/Tusharsrivastava001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
